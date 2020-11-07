@@ -202,75 +202,15 @@ The above was also used by uniswap for [understanding returns on their ecosystem
 
 ### Deducing Unbound breakeven formula or Meeth’s Formula
 
- EBreakEven = A24 EStart     
-  
- $$a = b$$ 
+![](../.gitbook/assets/screenshot-2020-11-07-at-2.29.59-pm.png)
 
-A = Amount of Loan Given
+![](../.gitbook/assets/screenshot-2020-11-07-at-8.00.08-pm.png)
 
-Vp = Value of the Pool
+![](../.gitbook/assets/screenshot-2020-11-07-at-8.00.20-pm.png)
 
-VH = HODL Value
+### Meeth’s Formula
 
-EBreakEven =  Price of ERC20 token at which LPT value \(VH\) is equal to A ---\(1\)
-
-EStart        =  Starting price of ERC20   
-  
-  
-
-
-                               Imp Loss Ratio= 2PR1+ PR -1--- \(2\)  
-
-
- Imp Loss = VH \( 2PR1+ PR - 1\) -- \(3\)
-
-PR = Price Ratio = EBreakEvenEStart  --\(4\)
-
- From ---\(a\)  
-
-
-Vp=VH + Imp Loss  
-
-
-Vp=VH + VH \(2PR1+ PR - 1\)
-
-Vp=  VH \(2PR1+ PR \)  
-
-
-VH =EStart +EBreakEven  -- \(5\)  
-  
-
-
-Now  
-
-
- Vp = A  \(From--\(1\)\)   
-
-
-A = VH \(2PR1+ PR \)  
-
-
-A = \(EStart +EBreakEven\) \(2PR1+ PR \)  
-
-
-PR = EBreakEvenEStart  
-
-
-A = \(EStart +EBreakEven\) \(2EBreakEvenEStart1+ EBreakEvenEStart \)  
-  
-
-
-A = 2EStartEBreakEvenEStart  
-
-
- A = 2 EStartEBreakEven  
-  
-
-
-Meeth’s Formula
-
-EBreakEven= A24EStart  
-
+![](../.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
 
 Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.  
 
