@@ -121,78 +121,57 @@ Liquidation Free Liquidity is a 2 step process
 2. A LTV ratio that does not risk the collateral even during steep corrections. 
 3. Maintain a SAFU Fund that with time can act as an insurance fund. 
 
-### The most important part of using LPT tokens as a means of collateral is working out the impermanent or divergence loss that can erode the value of the collateral. To make it clearer, we would link the impairment loss in terms of the correction that the erc20 token will undergo in order to derive a breakeven price of the erc20 token with respect to the LTV.
+The most important part of using LPT tokens as a means of collateral is working out the impermanent or divergence loss that can erode the value of the collateral. To make it clearer, we would link the impairment loss in terms of the correction that the erc20 token will undergo in order to derive a breakeven price of the erc20 token with respect to the LTV.
 
-### Deducing the formula for divergence loss
+### Deducing the formula for Impermanent loss 
 
-#### Case 1 - HODL
+#### Case 1 – HODL
 
-A user holds e0 ETH and u0 UND. He has equal values of the two \(measured in ETH, or equivalently in any other currency\). The initial price therefore is given by:  
- p0 = \(e0/u0\)
+A user holds e0 ETH and u0UND. He has equal values of the two \(measured in ETH, or equivalently in any other currency\). The initial price therefore is given by: p0=\(e0/u0\) 
 
 And the initial value of the holdings \(measured in ETH\) is given by:
 
-         V0 = e0 + p0 u0 
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.48.58-pm.png)
 
-= e0 + \(e0/u0\) u0 
+At some time in the future, the price has changed to p1, but the number of each token he holds \(e0 and u0\) is unchanged. So his holdings are now worth:
 
-= 2e0
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.49.07-pm.png)
 
-At some point in the future, the price changes to p1, but the number of each token the user holds \(e0 and u0\) is unchanged. So the user’s holdings are now worth:
+#### Case 2 - provide liquidity to Uniswap
 
-          VH = e0 + p1 u0
+Now, if he supplies his tokens to Uniswap, the constant product formula will work out how much ETH and UND he can claim from the liquidity pools, e1 and u1. In Uniswap, the ratio of the two pools is equal to the price of the two tokens:
 
-#### Case 2 - Provide Liquidity to Uniswap
-
-Now, if a user supplies their tokens to Uniswap, the constant product formula will work out how much ETH and UND the user can claim from the liquidity pools \(e1 and u1\). In Uniswap, the ratio of the two pools is equal to the price of the two tokens:
-
-pn = \(en/un\)
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.50.21-pm.png)
 
 So when the price changes to p1, we know that:
 
-p1 = \(e1/u1\)
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.53.52-pm.png)
 
 And from the constant product rule \(excluding fees\):
 
-e0 u0 = e1 u1
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.50.41-pm.png)
 
 Combining these two we have:
 
-e1 = \(e0 u0\)/ u1 = \(e0 u0 p1\)/e1 = √\(e0 u0 p1\)
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.51.01-pm.png)
 
-So the value of the liquidity the user can now withdraw from Uniswap is:
+So the value of the liquidity he can now withdraw from Uniswap is:
 
-VU = e1 + p1 u1 
-
-      = e1 + \(e1/ u1\) u1 
-
-      = 2e1 
-
-      = 2 √\(e0 u0 p1\)  
-
-
-### Divergence loss
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.51.09-pm.png)
 
   
-We then find the difference between VH \(the value from the hodl strategy\) with VU \(the value from the Uniswap strategy\) to work out the difference VD . It's more useful to find this as a fraction of VH so we divide both sides by VH.
+**Impermanent loss**  
+We then find the difference between _`VH`_ \(the value from the hodl strategy\) with VU \(the value from the Uniswap strategy\) to work out the difference _`VD`_ . It's more useful to find this as a fraction of _`VH`_ so we divide both sides by _`VH`_.
 
-VD = VU – VH
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.58.00-pm.png)
 
-\(VD/VH\) = \(VU/ VH\) - 1
+To reframe this in terms of the price ratio PR\(price ratio\) = \(p1/p0\), we divide the top and bottom of the fraction by e0:
 
-               =2 \[\(√ e0 u0 p1\)/\(e0 + p1 u0 \)\]-1
+![](../.gitbook/assets/screenshot-2020-11-08-at-5.58.09-pm.png)
 
-To reframe this in terms of the price ratio R = \(p1/p0\), we divide the top and bottom of the fraction by e0:
+**Note**
 
-\(VD/VH\) =2 \[\(√ e0 u0 p1\)/\(e0 + p1 u0 \)\]-1
-
-=2\[\(√ \(u0/e0\) p1\)/\(1+ p1\(\(u0/e0\)\)\]-1
-
-=2√ PR/\(1+PR\) -1
-
-Note
-
-The value of \(VD/VH\) will always be ≤ 0, showing that there is always a divergence loss unless \(p1/ p0\)=1, i.e. p1=p0\)  
+The value of `(VD/VH)`will always be ≤ 0, showing that there is always a Impermanent loss  unless `(p1/ p0)=1, i.e. p1=p0)`  
 
 
 The above was also used by uniswap for [understanding returns on their ecosystem](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/).  
@@ -324,7 +303,7 @@ V2 will primarily focus on:
 
 ‌
 
-1. [https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+1. Uniswap: A Good Deal for Liquidity Providers? - [https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 2. DeFi Explained: Automated Market Makers - '[https://medium.com/multi-io/automated-market-makers-amm-breakdown-d3338f027230](https://medium.com/multi-io/automated-market-makers-amm-breakdown-d3338f027230)'
 3. What Is DeFi - '[https://www.coindesk.com/what-is-defi](https://www.coindesk.com/what-is-defi)'
 4. The Great Potential Of Decentralized Finance in 2020 - '[https://www.entrepreneur.com/article/353588](https://www.entrepreneur.com/article/353588)'
