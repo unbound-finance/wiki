@@ -241,10 +241,9 @@ c\) Team Fund \(20%\)
 
 SAFU Fund and Liquidity Pools \(Earn\) are covered in the earlier sections.
 
-Team Fund
+**Team Fund**
 
-‌20% of the fees are distributed to team members to enable further development.This allocation is not fixed and as the system becomes more autonomous, the portion allocated can go up or down as required.  
-
+‌20% of the fees are distributed to team members to enable further development.This allocation is not fixed and as the system becomes more autonomous, the portion allocated can go up or down as required.
 
 ## Unbound Factory
 
@@ -257,10 +256,9 @@ The Factory Smart Contract is to support major LPTs which include Uniswap, Balan
 
 ![](https://lh6.googleusercontent.com/y9G4mKAAPHO_y6A1sg1DWGeZV1iOhwzrXPltIdG6yA3jtqivC_b88fJGKqTbxzcc3gUxqcp5V1RqdHh50YyxfqFkkQxlgaXI4q57JEDB04zwtNlkeSIeafj9ZAAulJLYuEoxyxXs)
 
-Governance
+## Governance
 
-Unbound will implement a DAO in the coming days.  
-‌
+Unbound will implement a DAO in the coming days.
 
 * The Unbound governance model enables UNB token holders to participate in policies and protocol decisions on the platform. The amount of UNB tokens that a user holds is proportional to their voting power on the platform.
 * The voting power of a user gives them the right to participate in policy making, proposals, and to have a say in any future direction of the platform.
@@ -271,7 +269,7 @@ Unbound will implement a DAO in the coming days.
 
 ## Further Develop‌ments 
 
-Version 1
+**Version 1**
 
 Unbound’s goal is to become a DeFi treasury for LPT and increase liquidity for UND.
 
@@ -282,7 +280,7 @@ V1 primarily focuses on:
 * Producing fee-earning, non-tradeable collateral
 * Implementing a SAFU fund
 
-Version 2
+**Version 2**
 
 Unbound will work towards a more autonomous organization for decentralized liquidity and earnings. This will allow users to explore different markets that provide the best yields on digital assets with the benefits of minimal risk liquidity provisioning. 
 
@@ -296,12 +294,9 @@ V2 will primarily focus on:
 
 ## Conclusion
 
-‌Unbound is the next logical step in the evolution of Decentralized Finance. The platform enables the unlocking of LPTs to be used as collateral for minting Unbound's UND stablecoin. UND, being a stablecoin, has unlimited use cases. The platform, importantly, does not have a liquidation engine which provides a much-needed protection against liquidation of user collateral caused by extreme market volatility. It also issues its native UNB token to users who are providing liquidity, granting them voting rights. These votes can be used to bring about changes and to have a say in the future direction of the Unbound platform.  
-
+‌Unbound is the next logical step in the evolution of Decentralized Finance. The platform enables the unlocking of LPTs to be used as collateral for minting Unbound's UND stablecoin. UND, being a stablecoin, has unlimited use cases. The platform, importantly, does not have a liquidation engine which provides a much-needed protection against liquidation of user collateral caused by extreme market volatility. It also issues its native UNB token to users who are providing liquidity, granting them voting rights. These votes can be used to bring about changes and to have a say in the future direction of the Unbound platform.
 
 ## References
-
-‌
 
 1. Uniswap: A Good Deal for Liquidity Providers? - [https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 2. DeFi Explained: Automated Market Makers - '[https://medium.com/multi-io/automated-market-makers-amm-breakdown-d3338f027230](https://medium.com/multi-io/automated-market-makers-amm-breakdown-d3338f027230)'
