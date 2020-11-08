@@ -75,75 +75,19 @@ To reframe this in terms of the price ratio PR\(price ratio\) = \(p1/p0\), we di
 
 **Note**
 
-The value of `(VD/VH)`will always be ≤ 0, showing that there is always a Impermanent loss  unless `(p1/ p0)=1, i.e. p1=p0)`  
+The value of `(VD/VH)`will always be ≤ 0, showing that there is always a Impermanent loss  unless `(p1/ p0)=1, i.e. p1=p0)`
 
+### Deducing Unbound breakeven formula or Meeth’s Formula
 
-### Deducing Unbound Breakeven Formula \(Meeth’s Formula\)
+![](.gitbook/assets/screenshot-2020-11-07-at-2.29.59-pm.png)
 
- EBreakEven = A24 EStart    
+![](.gitbook/assets/screenshot-2020-11-07-at-8.00.08-pm.png)
 
+![](.gitbook/assets/screenshot-2020-11-07-at-8.00.20-pm.png)
 
-A = Amount of Loan Given
+### Meeth’s Formula
 
-Vp = Value of the Pool
-
-VH = HODL Value
-
-EBreakEven = Price of ERC20 token at which LPT value \(VH\) is equal to A          --- \(1\)
-
-EStart = Starting price of ERC20 
-
- Imp Loss Ratio= 2PR1+ PR -1--- \(2\)  
-
-
-Imp Loss = VH \( 2PR1+ PR - 1\) --- \(3\)
-
-PR = Price Ratio = EBreakEvenEStart  --- \(4\)
-
-From ---\(a\)  
-
-
-Vp=VH + Imp Loss  
-
-
-Vp=VH + VH \(2PR1+ PR - 1\)  
-
-
-Vp=  VH \(2PR1+ PR \)  
-
-
-VH =EStart +EBreakEven  -- \(5\)  
-
-
-  
-Now
-
- Vp = A  \(From--\(1\)\)   
-
-
-A = VH \(2PR1+ PR \)  
-
-
-A = \(EStart +EBreakEven\) \(2PR1+ PR \)  
-
-
-PR = EBreakEvenEStart  
-
-
-A = \(EStart +EBreakEven\) \(2EBreakEvenEStart1+ EBreakEvenEStart \)  
-
-
-A = 2EStartEBreakEvenEStart  
-
-
- A = 2 EStartEBreakEven  
-  
-
-
-Meeth’s Formula  
-
-
-EBreakEven= A24EStart
+![](.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
 
 Note: We have added the fees earned by LPT tokens using volume numbers disclosed by Uniswap.
 
