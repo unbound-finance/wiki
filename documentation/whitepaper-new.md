@@ -1,6 +1,4 @@
-# Whitepaper New
-
-
+# Whitepaper
 
 ## Abstract
 

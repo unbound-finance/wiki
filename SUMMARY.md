@@ -4,7 +4,7 @@
 
 ## Documentation
 
-* [Whitepaper New](documentation/whitepaper-new.md)
+* [Whitepaper](documentation/whitepaper-new.md)
 * [FAQ's](documentation/faqs.md)
 
 ## Articles
