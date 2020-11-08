@@ -19,12 +19,6 @@ The first version of Unbound will feature Uniswap LPTs from ERC20-Stablecoin pai
 
 
 The next step would be to mathematically figure out the Impermanent loss  in the pools and link it to a breakeven price of ETH in such circumstances.   
-  
-  
-  
-  
-  
-  
 
 
 ### Deducing the formula for Impermanent loss 
