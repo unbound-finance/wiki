@@ -2,8 +2,7 @@
 
 Building the next money lego through unlocking the TVL \(Total Value Locked\) within the DeFi system.
 
-Unbound sets out to solve the following problems:  
-
+Unbound sets out to solve the following problems:
 
 * Locked liquidity contained in AMM pools  
 * High demand but lack of options for a decentralized stablecoin

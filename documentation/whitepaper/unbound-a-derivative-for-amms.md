@@ -8,7 +8,7 @@ DeFi is evolving with various derivative layers and AMMs are building new smart 
 Unbound provides the first-ever debt-free liquidity provision system! The platform provides liquidity to AMM LPTs and issues a Stablecoin \(UND\) in the form of a minted token. The platform unlocks the LPTs once the UND is returned, irrespective of time. The user is never at risk given that Unbound does not have a Liquidation Engine!  
 
 
-![](https://lh5.googleusercontent.com/P8YOP6xSk5ONzXVEnfCXAKQ67GkMQ7lJoA902H1QJx7kH0TC4uoSvlH4JJoLgjq2aUhg1fnx1xxv6CIRbbcWa3BmUTONPHDLSz_qJ8ylE7vT79CLBYFlSu0gcYaqX42CG6-TZzUw)
+![](../../.gitbook/assets/group-121-1-.png)
 
 1. Unlock LPT Liquidity: LPTs are the ideal collateral. They are great for funding but unsuitable for trading. Unbound will collateralize LPTs via smart contracts, which provide additional liquidity, without compromising on security.
 2. Mint Stablecoin by locking LPTs: Unlock will lock LPTs and mint a stablecoin \(UND\).

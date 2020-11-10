@@ -23,7 +23,7 @@ mFee = \[Minting Fee % \] X \[ Minted UND\]
 Minted UND to the USER = Minted UND -  mFee  
 
 
-![](https://lh4.googleusercontent.com/Flqq8xp2NGN945mkDG_wImrbWpBCPg0hDxEIdxn2H-UifD6TgyrDCrHwmlwKP1Ndv2qgA7AlXcNCfwbqI6GygiMdCOvftXxWnfMSZJl3i0LXAyI4YPdghCi_2JHy0QQmFJcMRMd8)
+![](../../.gitbook/assets/group-130.png)
 
 ### Unlocking
 
@@ -33,7 +33,7 @@ Minted UND to the USER = Minted UND -  mFee
 
 Unlocked LPT = Returning Minted UND
 
-![](https://lh5.googleusercontent.com/25CX-9kvEWf0tTNj-s3Rp394uxuCYJXXKg9UyAdeslRb-iLqO5fL0SGh77-Y0UrpdMlvtS1_9YH_cXYdmDseEDyxXvRqJ_SthQYPbOnavp9HiRkm749RVvMoXD9OENIjssCxkoEZ)
+![](../../.gitbook/assets/group-136.png)
 
 ### Earn     
 

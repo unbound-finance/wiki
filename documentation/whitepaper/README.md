@@ -60,7 +60,7 @@ DeFi is evolving with various derivative layers and AMMs are building new smart 
 Unbound provides the first-ever debt-free liquidity provision system! The platform provides liquidity to AMM LPTs and issues a Stablecoin \(UND\) in the form of a minted token. The platform unlocks the LPTs once the UND is returned, irrespective of time. The user is never at risk given that Unbound does not have a Liquidation Engine!  
 
 
-![](https://lh5.googleusercontent.com/P8YOP6xSk5ONzXVEnfCXAKQ67GkMQ7lJoA902H1QJx7kH0TC4uoSvlH4JJoLgjq2aUhg1fnx1xxv6CIRbbcWa3BmUTONPHDLSz_qJ8ylE7vT79CLBYFlSu0gcYaqX42CG6-TZzUw)
+![](../../.gitbook/assets/group-121-1-.png)
 
 1. Unlock LPT Liquidity: LPTs are the ideal collateral. They are great for funding but unsuitable for trading. Unbound will collateralize LPTs via smart contracts, which provide additional liquidity, without compromising on security.
 2. Mint Stablecoin by locking LPTs: Unlock will lock LPTs and mint a stablecoin \(UND\).
@@ -94,7 +94,7 @@ mFee = \[Minting Fee % \] X \[ Minted UND\]
 Minted UND to the USER = Minted UND -  mFee  
 
 
-![](https://lh4.googleusercontent.com/Flqq8xp2NGN945mkDG_wImrbWpBCPg0hDxEIdxn2H-UifD6TgyrDCrHwmlwKP1Ndv2qgA7AlXcNCfwbqI6GygiMdCOvftXxWnfMSZJl3i0LXAyI4YPdghCi_2JHy0QQmFJcMRMd8)
+![](../../.gitbook/assets/group-130.png)
 
 ### Unlocking
 
@@ -104,7 +104,7 @@ Minted UND to the USER = Minted UND -  mFee
 
 Unlocked LPT = Returning Minted UND
 
-![](https://lh5.googleusercontent.com/25CX-9kvEWf0tTNj-s3Rp394uxuCYJXXKg9UyAdeslRb-iLqO5fL0SGh77-Y0UrpdMlvtS1_9YH_cXYdmDseEDyxXvRqJ_SthQYPbOnavp9HiRkm749RVvMoXD9OENIjssCxkoEZ)
+![](../../.gitbook/assets/group-136.png)
 
 ### Earn     
 
