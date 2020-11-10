@@ -1,9 +1,5 @@
 # Core Features
 
-
-
-## Core Features
-
 ‌Unbound provides three main services in the form of fully automated Smart Contracts that do not require any third party intervention. The Smart Contracts make sure that the LPT pool is valid before a transaction can be created.
 
 ### ‌Minting

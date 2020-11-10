@@ -1,7 +1,5 @@
 # Unbound Factory
 
-## Unbound Factory
-
 The Factory Smart Contract is to support major LPTs which include Uniswap, Balancer, Mooniswap, Curve, Kyber, Bancor, and others in the pipeline.  
 
 

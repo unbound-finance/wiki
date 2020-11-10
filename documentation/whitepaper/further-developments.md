@@ -1,7 +1,5 @@
 # Further Developments
 
-## Further Develop‌ments 
-
 **Version 1**
 
 Unbound’s goal is to become a DeFi treasury for LPT and increase liquidity for UND.
