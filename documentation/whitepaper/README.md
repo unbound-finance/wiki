@@ -187,7 +187,7 @@ The above was also used by uniswap for [understanding returns on their ecosystem
 
 ### Meeth’s Formula
 
-![](../../.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-10-at-3.27.33-pm.png)
 
 Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.  
 
