@@ -81,7 +81,7 @@ The value of `(VD/VH)`will always be ≤ 0, showing that there is always a Imper
 
 ### Meeth’s Formula
 
-![](.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
+![](.gitbook/assets/screenshot-2020-11-10-at-3.27.33-pm.png)
 
 Note: We have added the fees earned by LPT tokens using volume numbers disclosed by Uniswap.
 
@@ -90,9 +90,9 @@ This formula is the foundation of our algorithm. To make things easier, we have 
 For an ETH-DAI pair with an LTV of 50%, our Net Break-Even Price Percentage is at - 74.9684%  
 
 
-![](https://lh6.googleusercontent.com/Qu_F8NYmEugbpy72slVzR0hQDgoID_KfTsoua0GKK0Ikgg6PzxpOA4lwGA78cAYmyps9KJIFaAF-1cSswui0es69el9s_G90lF7_CEcWp9V9tlIIFCHR8Jm9DsMB6wq6yhkPOXtF)
+![](.gitbook/assets/screenshot-2020-11-10-at-1.24.30-pm%20%281%29.png)
 
-This means that in the above example with the current ETH price at $384.31, we can allow ETH to fall by - 74.9684% to $96.08. It is at this point other protocols start liquidating collaterals. Unbound does not do so. We use our SAFU fund to keep your collateral safe.  
+This means that in the above example with the current ETH price at $444.73, we can allow ETH to fall by - 75% to $111.18. It is at this point other protocols start liquidating collaterals. Unbound does not do so. We use our SAFU fund to keep your collateral safe.  
   
   
   
