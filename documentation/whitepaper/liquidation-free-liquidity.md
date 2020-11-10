@@ -76,18 +76,15 @@ The above was also used by uniswap for [understanding returns on their ecosystem
 
 ![](../../.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
 
-Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.  
+Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.
 
+This formula is the foundation of our algorithm. To make things easier, we have created a [calculator](https://app.unbound.finance/calculator) that will process the Maths in the backend.
 
-This formula is the foundation of our algorithm. To make things easier, we have created a [calculator](https://app.unbound.finance/calculator) that will process the Maths in the backend.  
+For an ETH-DAI pair with an LTV of 50%, our net break-even price percentage is at - 74.9684%
 
+![](../../.gitbook/assets/screenshot-2020-11-10-at-1.24.30-pm%20%281%29.png)
 
-For an ETH-DAI pair with an LTV of 50%, our net break-even price percentage is at - 74.9684%  
-
-
-![](https://lh4.googleusercontent.com/UDCh012pXcOfdfgoq9lynXrVhN9DWFlDwVNSlnxyw5C64f8fOiQ5cO2jijZ7J4cl3eEjELJRxBAudKE0G2txL3ntYdKMjDWX2eh96Buzz9K1z3NGGpjWQX-GTInJaBSY8ptUHdbr)
-
-This means that in the above example with the current ETH price at $384.31, ETH would have to correct all the way to around $96 \(-75%\) for the underlying collateral to become 100% collateralized. 
+This means that in the above example with the current ETH price at $444.73, ETH would have to correct all the way to around $111 \(-75%\) for the underlying collateral to become 100% collateralized.
 
 You would also see Duration\(days\) in the [calculator](https://app.unbound.finance/calculator). This signifies the time it takes for the erc20 to decline in price and is required so that the fees that the LPT tokens earn can be calculated. These fees that are earned are then subtracted from Eth Break Even Price to get the Net BreakEven Price. 
 
