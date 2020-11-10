@@ -4,7 +4,20 @@
 
 ## Documentation
 
-* [Whitepaper](documentation/whitepaper.md)
+* [Whitepaper](documentation/whitepaper/README.md)
+  * [Abstract](documentation/whitepaper/abstract.md)
+  * [Introduction](documentation/whitepaper/introduction.md)
+  * [Unbound: A Derivative for AMMs](documentation/whitepaper/unbound-a-derivative-for-amms.md)
+  * [Core Features](documentation/whitepaper/core-features.md)
+  * [Liquidation Free Liquidity](documentation/whitepaper/liquidation-free-liquidity.md)
+  * [Tokens](documentation/whitepaper/tokens.md)
+  * [Tokenomics](documentation/whitepaper/tokenomics.md)
+  * [Unbound Factory](documentation/whitepaper/unbound-factory.md)
+  * [Roadmap](documentation/whitepaper/roadmap.md)
+  * [Governance](documentation/whitepaper/governance.md)
+  * [Further Developments](documentation/whitepaper/further-developments.md)
+  * [Conclusion](documentation/whitepaper/conclusion.md)
+  * [References](documentation/whitepaper/references.md)
 * [FAQ's](documentation/faqs.md)
 
 ## Articles

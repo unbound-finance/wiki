@@ -131,43 +131,43 @@ A user holds e0 ETH and u0UND. He has equal values of the two \(measured in ETH,
 
 And the initial value of the holdings \(measured in ETH\) is given by:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.48.58-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.48.58-pm.png)
 
 At some time in the future, the price has changed to p1, but the number of each token he holds \(e0 and u0\) is unchanged. So his holdings are now worth:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.49.07-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.49.07-pm.png)
 
 #### Case 2 - provide liquidity to Uniswap
 
 Now, if he supplies his tokens to Uniswap, the constant product formula will work out how much ETH and UND he can claim from the liquidity pools, e1 and u1. In Uniswap, the ratio of the two pools is equal to the price of the two tokens:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.50.21-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.50.21-pm.png)
 
 So when the price changes to p1, we know that:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.53.52-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.53.52-pm.png)
 
 And from the constant product rule \(excluding fees\):
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.50.41-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.50.41-pm.png)
 
 Combining these two we have:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.51.01-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.51.01-pm.png)
 
 So the value of the liquidity he can now withdraw from Uniswap is:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.51.09-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.51.09-pm.png)
 
   
 **Impermanent loss**  
 We then find the difference between _`VH`_ \(the value from the hodl strategy\) with VU \(the value from the Uniswap strategy\) to work out the difference _`VD`_ . It's more useful to find this as a fraction of _`VH`_ so we divide both sides by _`VH`_.
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.58.00-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.58.00-pm.png)
 
 To reframe this in terms of the price ratio PR\(price ratio\) = \(p1/p0\), we divide the top and bottom of the fraction by e0:
 
-![](../.gitbook/assets/screenshot-2020-11-08-at-5.58.09-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-08-at-5.58.09-pm.png)
 
 **Note**
 
@@ -179,15 +179,15 @@ The above was also used by uniswap for [understanding returns on their ecosystem
 
 ### Deducing Unbound breakeven formula or Meeth’s Formula
 
-![](../.gitbook/assets/screenshot-2020-11-07-at-2.29.59-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-07-at-2.29.59-pm.png)
 
-![](../.gitbook/assets/screenshot-2020-11-07-at-8.00.08-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-07-at-8.00.08-pm.png)
 
-![](../.gitbook/assets/screenshot-2020-11-07-at-8.00.20-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-07-at-8.00.20-pm.png)
 
 ### Meeth’s Formula
 
-![](../.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
+![](../../.gitbook/assets/screenshot-2020-11-07-at-2.25.36-pm.png)
 
 Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.  
 
@@ -212,11 +212,11 @@ The SAFU fund is an insurance fund that can be useful for blackswan events. The 
 
 The Unbound protocol is a dual token ecosystem. It uses UND as a stablecoin and UNB as a governance token.
 
-‌UND - The End Of Centralized Stablecoins!
+**‌UND - The End Of Centralized Stablecoins!**
 
 The UND is a stablecoin that is pegged to USD and collateralized by LPT \(Liquidity Pool Tokens\). The value of UND minted is based on the value of the deposited LPT. The amount of UND minted at the time the LPT was deposited is the amount that the user must pay back in order to get their original LPT. Minted UND will be burned once deposited in the Unlock contract before the original collateral is returned to the user. Arbitrageurs in AMM pools ensure that the Dollar peg is maintained.
 
-‌UNB
+‌**UNB**
 
 UNB is used for protocol governance. It encourages participation from the token holders by way of decision making to resolve issues. Token holders will be able to vote for policy on proposed changes and implementations to better serve the community and increase the efficiency of the protocol. More details on governance is covered in the upcoming sections.
 
