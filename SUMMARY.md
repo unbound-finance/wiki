@@ -26,4 +26,5 @@
 
 * [Introducing  Unbound Finance](introducing-unbound-finance.md)
 * [No Liquidations in Unbound Explained](no-liquidations-in-unbound-explained.md)
+* [Simulating Impermanent Loss](simulating-impermanent-loss.md)
 
