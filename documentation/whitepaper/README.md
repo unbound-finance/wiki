@@ -192,7 +192,7 @@ The above was also used by uniswap for [understanding returns on their ecosystem
 Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.  
 
 
-This formula is the foundation of our algorithm. To make things easier, we have created a [calculator](https://app.unbound.finance/calculator) that will process the Maths in the backend.  
+This formula is the foundation of our algorithm. To make things easier, we have created a [calculator](https://testnet.unbound.finance/calculator/) that will process the Maths in the backend.  
 
 
 For an ETH-DAI pair with an LTV of 50%, our net break-even price percentage is at - 74.9684%  
