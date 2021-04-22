@@ -28,4 +28,6 @@
 * [No Liquidations in Unbound Explained](no-liquidations-in-unbound-explained.md)
 * [Simulating Impermanent Loss](simulating-impermanent-loss.md)
 * [Block Limit Lock Mechanism  - A Security Layer](block-limit-lock-mechanism-a-security-layer.md)
+* [Price Oracle Solution for Unbound](price-oracle-solution-for-unbound.md)
+* [Untitled](untitled.md)
 
