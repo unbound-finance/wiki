@@ -1,14 +1,10 @@
-# Guide To Unbound Finance
-
-Guide To Unbound Finance
-
-![](https://lh3.googleusercontent.com/vi1FVS6i4cJXZsIXjUtkkLOizDBCGdWHS8SzgamcWD22NVxYNAkUod_HcHVG1nKlrHJykNgn7aDr-uXk5p7z7y9qTu52RrGQ3N6uEAeYT9UGRMPu0PEmUdZnUlEHw3oz44TjOyEY)
+# Guide To Unbound Finance Testnet
 
 Unbound Finance is a decentralized, lending protocol built on Automated Market Makers that offers interest-free loans against Liquidity Provision tokens as collateral. Liquidity providers across various AMMs can lock their LPTs to mint synthetic assets like UND and uETH that can be further used to reinforce additional liquidity to AMMs and DeFi  while still retaining returns on their LPs. The initial set of product Unbound has been built to include decentralized, cross-chain stablecoin UND, an ERC-20 stablecoin, soft pegged to the US dollar. The protocol has been live on testnet since december 2020. It launched its final Zeta testnet in April 2021 and is preparing to soon launch its mainnet.
 
 This tutorial is a step by step guide for using the Unbound features - Mint, Unlock, and Earn.  
 
-Inorder to leverage the Unbound services, you first need to go to the Unbound Dashboard. The Unbound Dashboard is easy to reach. Simply go to “[unbound.finance](https://unbound.finance/)” and click on “Dashboard”.
+In order to leverage the Unbound services, you first need to go to the Unbound Dashboard. The Unbound Dashboard is easy to reach. Simply go to “[unbound.finance](https://unbound.finance/)” and click on “Dashboard”.
 
 ![](https://lh3.googleusercontent.com/agR2Nd0s8JKNIGZQz8khYzLKkApeUYmfcZiLxcxeUdEg8j8iDf3Bx1LaGlAXjGsUoQB_ImaaTwdODb-RXTNV0J-6IZNMPzHO4s-TaL6Wm3UujUaIaAOOwdsxJb4mP3cbhfeG-voI)
 
