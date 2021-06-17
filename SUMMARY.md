@@ -32,5 +32,5 @@
 * [Guides](guides/README.md)
   * [Guide To Unbound Finance Testnet](guides/guides-to-unbound-finance-testnet.md)
   * [How to use Metamask ?](guides/how-to-use-metamask.md)
-  * [Untitled](guides/untitled.md)
+  * [How to Provide Liquidity to Uniswap V2 ?](guides/guide-to-adding-liquidity-to-uniswap-v2.md)
 
