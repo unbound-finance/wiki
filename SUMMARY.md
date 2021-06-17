@@ -30,7 +30,7 @@
 * [Block Limit Lock Mechanism  - A Security Layer](block-limit-lock-mechanism-a-security-layer.md)
 * [Price Oracle Solution for Unbound](price-oracle-solution-for-unbound.md)
 * [Guides](guides/README.md)
-  * [Guide To Unbound Finance Testnet](guides/guides.md)
+  * [Guide To Unbound Finance Testnet](guides/guides-to-unbound-finance-testnet.md)
   * [How to use Metamask ?](guides/how-to-use-metamask.md)
   * [Untitled](guides/untitled.md)
 
