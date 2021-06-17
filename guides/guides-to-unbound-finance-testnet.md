@@ -82,9 +82,11 @@ You will receive test tokens as per the table below
 | Test Digix \(tDGX\) | 16.750 |
 | Test Tesla \(tTSLA\) | 25.000 |
 
-The same will appear in your Metamask wallet. You can use these tokens to create LP tokens in Uniswap. Note that to add a token in Uniswap, you can use the same contract addresses.
+The same will appear in your Metamask wallet. You can use these tokens to create LP tokens in Uniswap. 
 
-Note - If you are new to cryptocurrency and not sure how to acquire LP tokens, follow [the link](https://docs.google.com/document/u/0/d/1rIP6vP4AUE_dXXG8xdqig845E7DpbK3LxKdAaBYuZRs/edit) to a step by step tutorial of adding liquidity to the Uniswap pool.  
+_Note that to add a token in Uniswap, you can use the same contract addresses._
+
+Note - If you are new to cryptocurrency and not sure how to acquire LP tokens, follow [the link](https://docs.unbound.finance/guides/guide-to-adding-liquidity-to-uniswap-v2) to a step by step tutorial of adding liquidity to the Uniswap pool.  
 
 You are now ready to borrow and earn!
 
@@ -177,18 +179,6 @@ Note that UND has to be paired with DAI for adding liquidity. Ensure you have en
 
 Well done!! You can now start earning rewards for your liquidity.
 
-Unbound Documentation:
-
-  Website:[ https://unbound.finance](https://unbound.finance/)
-
-  Testnet:[ https://zeta.unbound.finance/](https://zeta.unbound.finance/)
-
-  Uniswap V3 testnet:[ https://v3.unbound.finance/](https://v3.unbound.finance/)
-
-   Twitter:[ https://twitter.com/unboundfinance](https://twitter.com/unboundfinance)
-
-  Telegram:[ https://t.me/unboundfinance](https://t.me/unboundfinance)  
-  
-  
+    
 
 

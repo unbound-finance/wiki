@@ -1,6 +1,5 @@
 # How to use Metamask ?
 
-Step By Step Tutorial To Using MetaMask   
 Metamask is a secure crypto wallet that provides an easy gateway to all the blockchain applications.  
 Follow the steps below to Install and Configure the Metamask wallet for using the features of the Unbound finance protocol.  
 To create a wallet you need to first install an extension to your browser as follows:
