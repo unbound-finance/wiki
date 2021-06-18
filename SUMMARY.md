@@ -7,7 +7,7 @@
 * [Whitepaper](documentation/whitepaper/README.md)
   * [Abstract](documentation/whitepaper/abstract.md)
   * [Introduction](documentation/whitepaper/introduction.md)
-  * [Unbound: A Derivative for AMMs](documentation/whitepaper/unbound-a-derivative-for-amms.md)
+  * [Unbound - The DeFi Treasury For Liquidity Pool Tokens](documentation/whitepaper/unbound-a-derivative-for-amms.md)
   * [Core Features](documentation/whitepaper/core-features.md)
   * [Liquidation Free Liquidity](documentation/whitepaper/liquidation-free-liquidity.md)
   * [Tokens](documentation/whitepaper/tokens.md)

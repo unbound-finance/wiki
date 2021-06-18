@@ -1,44 +1,29 @@
 # Core Features
 
-‌Unbound provides three main services in the form of fully automated Smart Contracts that do not require any third party intervention. The Smart Contracts make sure that the LPT pool is valid before a transaction can be created.
+‌‌Unbound provides three main services in the form of fully automated Smart Contracts that do not require any third party intervention. The Smart Contracts make sure that the LPT pool is valid before a transaction can be created. Details regarding UND stablecoin are covered in the later section of the whitepaper.
 
 ### ‌Minting
 
-‌UND tokens and other synthetic assets are minted when users provide their LPT as collateral. The UND token represents a stablecoin pegged to the value of USD. Once users have their UND, they can use the funds immediately. Unbound will initially support LPTs from various AMMs such as Uniswap, Balancer, Mooniswap, Curve, Kyber, and Bancor, with others to follow. 
-
-The Loan-to-Value \(LTV\) ratio is the percentage of funds that users can mint against their collateral. This ratio is variable. For example if it’s set at 50%, for every $100 worth of LPT token deposited, users can mint up to 50 UND. There is a minting fee charged to the user. This minting fee acts helps to provide stability for the ecosystem and will remain variable to help UND maintain its dollar peg. 
-
-‌The UND minting terminology:
-
-UND = Unbound Stablecoin 
-
-LPT = Liquidity Pool Token 
-
-LTV = Loan-to-Value Percentage 
-
-Minted UND = LTV x USD value of LPT 
-
-mFee = \[Minting Fee % \] X \[ Minted UND\]
-
-Minted UND to the USER = Minted UND -  mFee  
+‌Unbound's Minting feature enables users to deposit their LP tokens as collateral to mint UND stablecoins and other synthetic assets including uETH. At the initial stage, Unbound will issue UND loans to its users. With the addition of different collateral types, Unbound will launch uETH and other synthetic assets as loan issuance tokens.  
 
 
 ![](../../.gitbook/assets/group-130.png)
 
+Initially, Unbound intends to support only the pools consisting of stablecoin pairs as collateral. Additional collateral types will be added later.
+
 ### Unlocking
 
-‌When users pay back their minted funds \(including the minting fees\), the UND is burnt during the unlocking process. This takes the minted UND out of circulation and in return the user gets back their collateralized LPT. There will be no other additional fees charged to users when they unlock their LPT.
-
-‌Unbound smart contracts are perpetual, meaning they don't have a maturity date on the money that has been minted, therefore there is no deadline for repayment of funds and users can continue to earn from their LPT.
-
-Unlocked LPT = Returning Minted UND
+‌Unbound enables users to unlock the underlying collateral upon repayment of borrowed funds including the minting fees. Unbound smart contracts are perpetual, meaning they don't have a maturity date on the money that has been minted, therefore there is no deadline for repayment of funds. UNDs paid back are burnt as a part of the unlocking process. This takes the minted UND out of circulation and in return the user gets back the leveraged assets. Unbound does not charge fees at the time of unlock.
 
 ![](../../.gitbook/assets/group-136.png)
 
+It is possible for Unbound users to repay the total loan amount in separate portions, at separate times. Users are allowed to unlock assets equivalent to the amount paid back. At each instance, the smart contract calculates the amount of collateral to be unlocked by recalculating the collateralization ratio \(CR\) based on price feed from the price oracles. 
+
+The complete collateral can be released by paying back the outstanding debt.
+
 ### Earn     
 
-Users can become Liquidity Providers for UND Pools. In return, UND is issued to users for providing that liquidity. ‌
+The Earn feature of the Unbound protocol incentivizes users for providing liquidity to the UND pools. Users can deposit UND in the Unbound liquidity pools. In return, they earn UND rewards on a continual basis proportional to the size of their deposit which gets accrued to the user balance. 
 
-* The Earn reward is over and above what a user will get in Uniswap
-* The Earn reward is variable and is set to 40% of the Mint transaction fees in the initial phases. 
+The deposit made to the liquidity pools can be withdrawn at any time including the rewards. Initially, Earn rewards are set to 60% of the minting fees. The current yield rate is variable and is susceptible to changes at later stages through community voting.
 

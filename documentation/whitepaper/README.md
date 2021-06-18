@@ -2,30 +2,23 @@
 
 ## Abstract
 
-Building the next money lego through unlocking the TVL \(Total Value Locked\) within the DeFi system.
-
-Unbound sets out to solve the following problems:  
+Unbound Finance is building the next money lego through unlocking the TVL \(Total Value Locked\) within the DeFi system with a view to augment the utility of Liquidity Provision \(LP\) tokens, making it a more efficient yield generating tool.   
 
 
-* Locked liquidity contained in AMM pools  
-* High demand but lack of options for a decentralized stablecoin
-* Users having their collateral liquidated due to extreme price wicks caused by market volatility 
-
-This white paper is a summary and an explanation of how Unbound Finance solves these problems in a decentralized, trustless and secure manner.
+The whitepaper gives a brief summary of the Unbound project.
 
 ## Introduction
 
-Unbound is a Decentralized Finance \(DeFi\) platform that works on the derivative layer of Automated Market Makers \(AMMs\). Unbound enables users to unlock liquidity from other platforms such as Uniswap, Balancer, Curve, etc. The platform provides synthetic assets such as UND, a USD pegged decentralized stablecoin, uETH an Ethereum pegged erc20, and other synthetic assets that have Liquidity Pool Tokens \(LPTs\) as collateral.  
+Unbound is a decentralized cross-chain liquidity protocol that is building the derivative layer of Automated Market Makers \(AMM\). The intent of Unbound is to build products that are both native and composable to the DeFi ecosystem. These include
 
+* Synthetic Assets including a Stablecoin\(UND\), uETH,etc
+* AMM pools that are cross derived from multiple AMMs
+* Oracle Price Feeds based on free markets and path independent value discovery.
+* Building financial instruments for compounding yields and margin trades
 
-Some of the key features and objectives of Unbound are to:
+Unbound protocol is building a management layer over the existing AMMs by locking up LPT to mint synthetic assets that further reinforces liquidity in AMMs and Defi, unlocking liquidity from existing AMM Liquidity Pools. The initial set of product Unbound has been built to include decentralized, cross-chain stablecoin called UND.
 
-* Provide a debt-free liquidity provision system.
-* Unlock liquidity from existing AMM pools.
-* Create UND \(a USD-pegged decentralized stablecoin\) and other synthetic digital assets.
-* Be a treasury for LPTs
-* Solve the problem of loan liquidations
-* Establish LPT’s as an improved collateral
+Unbound has created a robust architecture that does not require a Liquidation Engine. A combination of collateral ratio, risk management through selected stablecoin-ERC20 LPT pairs, and SAFU fund ensures a support system that is a lot more resilient than traditional crypto assets under similar circumstances. This is a huge shift from the existing lending landscape.
 
 ### What is DeFi?
 

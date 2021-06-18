@@ -1,16 +1,13 @@
 # Introduction
 
-Unbound is a Decentralized Finance \(DeFi\) platform that works on the derivative layer of Automated Market Makers \(AMMs\). Unbound enables users to unlock liquidity from other platforms such as Uniswap, Balancer, Curve, etc. The platform provides synthetic assets such as UND, a USD pegged decentralized stablecoin, uETH an Ethereum pegged erc20, and other synthetic assets that have Liquidity Pool Tokens \(LPTs\) as collateral.  
+Unbound is a decentralized cross-chain liquidity protocol that is building the derivative layer of Automated Market Makers \(AMM\). The intent of Unbound is to build products that are both native and composable to the DeFi ecosystem. These include
 
+* Synthetic Assets including a Stablecoin\(UND\), uETH,etc
+* AMM pools that are cross derived from multiple AMMs
+* Oracle Price Feeds based on free markets and path independent value discovery.
+* Building financial instruments for compounding yields and margin trades
 
-Some of the key features and objectives of Unbound are to:
-
-* Provide a debt-free liquidity provision system.
-* Unlock liquidity from existing AMM pools.
-* Create UND \(a USD-pegged decentralized stablecoin\) and other synthetic digital assets.
-* Be a treasury for LPTs
-* Solve the problem of loan liquidations
-* Establish LPT’s as an improved collateral
+Unbound protocol is building a management layer over the existing AMMs by locking up LPT to mint synthetic assets that further reinforces liquidity in AMMs and Defi, unlocking liquidity from existing AMM Liquidity Pools. The initial set of product Unbound has been built to include decentralized, cross-chain stablecoin called UND.
 
 ### What is DeFi?
 

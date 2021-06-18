@@ -90,5 +90,7 @@ You would also see Duration\(days\) in the [calculator](https://app.unbound.fina
 
 ### SAFU Fund
 
-The SAFU fund is an insurance fund that can be useful for blackswan events. The fund will continuously grow as a percentage of all the minting fees are allocated to it. This creates a continuous buying pressure on UND and helps maintain the dollar peg.  The % is set to 40% initially and set to change as the ecosystem develops.
+Secure Asset Fund For Users \(SAFU\) is an emergency insurance fund created with a view to secure the collateralized assets of the borrower during blackswan events.The funds for maintaining SAFU comes from the minting fees charged to the users for borrowing UND loans.
+
+   The fund will never run a deficit and grow continuously as a percentage of all the minting fees are allocated to it. This creates a continuous buying pressure on UND and helps maintain the dollar peg value. The portion of minting fees allocated to SAFU fund is initially set to 40%. This allocation is not fixed and can change as the system becomes autonomous.
 
