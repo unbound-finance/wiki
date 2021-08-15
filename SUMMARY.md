@@ -30,7 +30,7 @@
 * [Block Limit Lock Mechanism  - A Security Layer](block-limit-lock-mechanism-a-security-layer.md)
 * [Price Oracle Solution for Unbound](price-oracle-solution-for-unbound.md)
 * [Guides](guides/README.md)
-  * [Guide To Accessing Polygon Testnet And How to Use Unbound Faucet Tokens ?](guides/guide-to-accessing-polygon-testnet-and-how-to-use-unbound-faucet-tokens.md)
+  * [Guide To Accessing Polygon Testnet And How to get Unbound Faucet Tokens ?](guides/guide-to-accessing-polygon-testnet-and-how-to-use-unbound-faucet-tokens.md)
   * [Guide To Unbound Finance Testnet](guides/guides-to-unbound-finance-testnet.md)
   * [How to use Metamask ?](guides/how-to-use-metamask.md)
   * [How to Provide Liquidity to Uniswap V2 ?](guides/guide-to-adding-liquidity-to-uniswap-v2.md)

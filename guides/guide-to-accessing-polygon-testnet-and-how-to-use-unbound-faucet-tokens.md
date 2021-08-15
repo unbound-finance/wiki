@@ -1,4 +1,4 @@
-# Guide To Accessing Polygon Testnet And How to Use Unbound Faucet Tokens ?
+# Guide To Accessing Polygon Testnet And How to get Unbound Faucet Tokens ?
 
 We are happy to announce that we are now live on the Mumbai testnet and as such we would like to invite you to test our protocol on the Polygon test space.  
 
