@@ -2,16 +2,16 @@
 
 ## Abstract
 
-Unbound Finance is building the next money lego through unlocking the TVL \(Total Value Locked\) within the DeFi system with a view to augment the utility of Liquidity Provision \(LP\) tokens, making it a more efficient yield generating tool.   
+Unbound Finance is building the next money lego through unlocking the TVL (Total Value Locked) within the DeFi system with a view to augment the utility of Liquidity Provider (LP) tokens, making it a more efficient yield generating tool. \
 
 
 The whitepaper gives a brief summary of the Unbound project.
 
 ## Introduction
 
-Unbound is a decentralized cross-chain liquidity protocol that is building the derivative layer of Automated Market Makers \(AMM\). The intent of Unbound is to build products that are both native and composable to the DeFi ecosystem. These include
+Unbound is a decentralized cross-chain liquidity protocol that is building the derivative layer of Automated Market Makers (AMM). The intent of Unbound is to build products that are both native and composable to the DeFi ecosystem. These include
 
-* Synthetic Assets including a Stablecoin\(UND\), uETH,etc
+* Synthetic Assets including a Stablecoin(UND), uETH,etc
 * AMM pools that are cross derived from multiple AMMs
 * Oracle Price Feeds based on free markets and path independent value discovery.
 * Building financial instruments for compounding yields and margin trades
@@ -22,42 +22,42 @@ Unbound has created a robust architecture that does not require a Liquidation En
 
 ### What is DeFi?
 
-‌Decentralized Finance \(DeFi\) is a financial system built on decentralized assets. The DeFi ecosystem comprises lending and borrowing, decentralized exchanges, and derivatives trading among other facilities.   
+‌Decentralized Finance (DeFi) is a financial system built on decentralized assets. The DeFi ecosystem comprises lending and borrowing, decentralized exchanges, and derivatives trading among other facilities. \
 
 
-The DeFi market consists of many innovations such as:  
+The DeFi market consists of many innovations such as:\
 
 
 * Lending Platforms - Compound, Aave, dYdX, Oasis, MakerDAO, Dharma etc.
-* Decentralized Exchanges \(DEX\) - Uniswap, EtherDelta, Bancor.
+* Decentralized Exchanges (DEX) - Uniswap, EtherDelta, Bancor.
 * Assets – Digital assets such as WBTC, RenBTC etc.
 * Derivatives - Dai, Synthetix etc.
-* Payments – Platforms such as Flexa \(Ethereum\) and the Lightning Network \(Bitcoin\).
+* Payments – Platforms such as Flexa (Ethereum) and the Lightning Network (Bitcoin).
 
-In October 2020, the total value locked in DeFi in USD is $10.71 Bn. Uniswap alone dominates 23% of the market share. 
+In October 2020, the total value locked in DeFi in USD is $10.71 Bn. Uniswap alone dominates 23% of the market share.&#x20;
 
 ![](https://lh4.googleusercontent.com/kLxt5RTIWFp4Ai2nW6T17iZXHJByYrUMPOLzXMZ8jMogFjHbEQDwzJzo69ujwP4Uuq9l3yvIfQajxRJQlzjXSL5eECbty1kWT0-WhQ8X3SyKSO6z6woqQ81rv06PdkU5Gfwvtylz)
 
-[Defi Pulse](https://defipulse.com/)  
+[Defi Pulse](https://defipulse.com)\
 
 
-### Automated Market Makers \(AMM\)
+### Automated Market Makers (AMM)
 
-‌AMM is an implementation of Decentralized Exchanges \(DEXs\). AMMs replace the existing exchange order-books with a permissionless liquidity pool run by algorithms. In DeFi, the constant flow of liquidity is handled by AMMs. Smart contracts lock tokens in order to provide liquidity which enables token pair exchanges. In return, the users, also called Liquidity Providers, are issued an LPT \(Liquidity Pool Token\) that represents the value they put into the Liquidity Pool. 
+‌AMM is an implementation of Decentralized Exchanges (DEXs). AMMs replace the existing exchange order-books with a permissionless liquidity pool run by algorithms. In DeFi, the constant flow of liquidity is handled by AMMs. Smart contracts lock tokens in order to provide liquidity which enables token pair exchanges. In return, the users, also called Liquidity Providers, are issued an LPT (Liquidity Pool Token) that represents the value they put into the Liquidity Pool.&#x20;
 
 ## Unbound: A Derivative for AMMs
 
-DeFi is evolving with various derivative layers and AMMs are building new smart contract based legos. Unbound is a DeFi platform that creates a treasury layer on top of existing AMM platforms by using LPT’s as a collateral, which is a decentralized receipt of the user’s funds in an AMM pool.    
+DeFi is evolving with various derivative layers and AMMs are building new smart contract based legos. Unbound is a DeFi platform that creates a treasury layer on top of existing AMM platforms by using LPT’s as a collateral, which is a decentralized receipt of the user’s funds in an AMM pool.  \
 
 
-Unbound provides the first-ever debt-free liquidity provision system! The platform provides liquidity to AMM LPTs and issues a Stablecoin \(UND\) in the form of a minted token. The platform unlocks the LPTs once the UND is returned, irrespective of time. The user is never at risk given that Unbound does not have a Liquidation Engine!  
+Unbound provides the first-ever debt-free liquidity provision system! The platform provides liquidity to AMM LPTs and issues a Stablecoin (UND) in the form of a minted token. The platform unlocks the LPTs once the UND is returned, irrespective of time. The user is never at risk given that Unbound does not have a Liquidation Engine!\
 
 
 ![](../../.gitbook/assets/group-121-1-.png)
 
 1. Unlock LPT Liquidity: LPTs are the ideal collateral. They are great for funding but unsuitable for trading. Unbound will collateralize LPTs via smart contracts, which provide additional liquidity, without compromising on security.
-2. Mint Stablecoin by locking LPTs: Unlock will lock LPTs and mint a stablecoin \(UND\).
-3. No Liquidation Engine for LargeCap Pairs\(Eth/Dai,USDT/USDC,etc\) : Unbound does not have a liquidation engine. The smart contracts unlock collaterals whenever the minted UND is returned. What this imply is that when you mint UNDs, this does not create a debt position where:
+2. Mint Stablecoin by locking LPTs: Contracts will lock LPTs and mint a stablecoin (UND).
+3. No Liquidation Engine for LargeCap Pairs(Eth/Dai,USDT/USDC,etc) : Unbound does not have a liquidation engine. The smart contracts unlock collaterals whenever the minted UND is returned. What this imply is that when you mint UNDs, this does not create a debt position where:
    1. Users do not lose any collateral amount
    2. Unbound does not charge any penalty amount if the value of collateral goes below a certain amount.
 4. SAFU fund: In case of an exceptionally steep decline in collateral value, the SAFU fund is there to absorb some or all of the losses without liquidating the user collateral. More details in the following sections.
@@ -68,30 +68,30 @@ Unbound provides the first-ever debt-free liquidity provision system! The platfo
 
 ### ‌Minting
 
-‌UND tokens and other synthetic assets are minted when users provide their LPT as collateral. The UND token represents a stablecoin pegged to the value of USD. Once users have their UND, they can use the funds immediately. Unbound will initially support LPTs from various AMMs such as Uniswap, Balancer, Mooniswap, Curve, Kyber, and Bancor, with others to follow. 
+‌UND tokens and other synthetic assets are minted when users provide their LPT as collateral. The UND token represents a stablecoin pegged to the value of USD. Once users have their UND, they can use the funds immediately. Unbound will initially support LPTs from various AMMs such as Uniswap, Balancer, Mooniswap, Curve, Kyber, and Bancor, with others to follow.&#x20;
 
-The Loan-to-Value \(LTV\) ratio is the percentage of funds that users can mint against their collateral. This ratio is variable. For example if it’s set at 50%, for every $100 worth of LPT token deposited, users can mint up to 50 UND. There is a minting fee charged to the user. This minting fee acts helps to provide stability for the ecosystem and will remain variable to help UND maintain its dollar peg. 
+The Loan-to-Value (LTV) ratio is the percentage of funds that users can mint against their collateral. This ratio is variable. For example if it’s set at 50%, for every $100 worth of LPT token deposited, users can mint up to 50 UND. There is a minting fee charged to the user. This minting fee acts helps to provide stability for the ecosystem and will remain variable to help UND maintain its dollar peg.&#x20;
 
 ‌The UND minting terminology:
 
-UND = Unbound Stablecoin 
+UND = Unbound Stablecoin&#x20;
 
-LPT = Liquidity Pool Token 
+LPT = Liquidity Pool Token&#x20;
 
-LTV = Loan-to-Value Percentage 
+LTV = Loan-to-Value Percentage&#x20;
 
-Minted UND = LTV x USD value of LPT 
+Minted UND = LTV x USD value of LPT&#x20;
 
-mFee = \[Minting Fee % \] X \[ Minted UND\]
+mFee = \[Minting Fee % ] X \[ Minted UND]
 
-Minted UND to the USER = Minted UND -  mFee  
+Minted UND to the USER = Minted UND -  mFee\
 
 
 ![](../../.gitbook/assets/group-130.png)
 
 ### Unlocking
 
-‌When users pay back their minted funds \(including the minting fees\), the UND is burnt during the unlocking process. This takes the minted UND out of circulation and in return the user gets back their collateralized LPT. There will be no other additional fees charged to users when they unlock their LPT.
+‌When users pay back their minted funds (including the minting fees), the UND is burnt during the unlocking process. This takes the minted UND out of circulation and in return the user gets back their collateralized LPT. There will be no other additional fees charged to users when they unlock their LPT.
 
 ‌Unbound smart contracts are perpetual, meaning they don't have a maturity date on the money that has been minted, therefore there is no deadline for repayment of funds and users can continue to earn from their LPT.
 
@@ -99,34 +99,34 @@ Unlocked LPT = Returning Minted UND
 
 ![](../../.gitbook/assets/group-136.png)
 
-### Earn     
+### Earn    &#x20;
 
 Users can become Liquidity Providers for UND Pools. In return, UND is issued to users for providing that liquidity. ‌
 
 * The Earn reward is over and above what a user will get in Uniswap
-* The Earn reward is variable and is set to 40% of the Mint transaction fees in the initial phases. 
+* The Earn reward is variable and is set to 40% of the Mint transaction fees in the initial phases.&#x20;
 
 ## Liquidation Free Liquidity
 
 Liquidation Free Liquidity is a 2 step process
 
-1. Lockup LPT tokens from large market cap pairs \(Eth/Dai,ETH/USDT,DAI/USDT, USDT/USDC, etc\)
-2. A LTV ratio that does not risk the collateral even during steep corrections. 
-3. Maintain a SAFU Fund that with time can act as an insurance fund. 
+1. Lockup LPT tokens from large market cap pairs (Eth/Dai,ETH/USDT,DAI/USDT, USDT/USDC, etc)
+2. A LTV ratio that does not risk the collateral even during steep corrections.&#x20;
+3. Maintain a SAFU Fund that with time can act as an insurance fund.&#x20;
 
 The most important part of using LPT tokens as a means of collateral is working out the impermanent or divergence loss that can erode the value of the collateral. To make it clearer, we would link the impairment loss in terms of the correction that the erc20 token will undergo in order to derive a breakeven price of the erc20 token with respect to the LTV.
 
-### Deducing the formula for Impermanent loss 
+### Deducing the formula for Impermanent loss&#x20;
 
 #### Case 1 – HODL
 
-A user holds e0 ETH and u0UND. He has equal values of the two \(measured in ETH, or equivalently in any other currency\). The initial price therefore is given by: p0=\(e0/u0\) 
+A user holds e0 ETH and u0UND. He has equal values of the two (measured in ETH, or equivalently in any other currency). The initial price therefore is given by: p0=(e0/u0)&#x20;
 
-And the initial value of the holdings \(measured in ETH\) is given by:
+And the initial value of the holdings (measured in ETH) is given by:
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.48.58-pm.png)
 
-At some time in the future, the price has changed to p1, but the number of each token he holds \(e0 and u0\) is unchanged. So his holdings are now worth:
+At some time in the future, the price has changed to p1, but the number of each token he holds (e0 and u0) is unchanged. So his holdings are now worth:
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.49.07-pm.png)
 
@@ -140,7 +140,7 @@ So when the price changes to p1, we know that:
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.53.52-pm.png)
 
-And from the constant product rule \(excluding fees\):
+And from the constant product rule (excluding fees):
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.50.41-pm.png)
 
@@ -152,22 +152,22 @@ So the value of the liquidity he can now withdraw from Uniswap is:
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.51.09-pm.png)
 
-  
-**Impermanent loss**  
-We then find the difference between _`VH`_ \(the value from the hodl strategy\) with VU \(the value from the Uniswap strategy\) to work out the difference _`VD`_ . It's more useful to find this as a fraction of _`VH`_ so we divide both sides by _`VH`_.
+\
+**Impermanent loss**\
+****We then find the difference between _`VH`_ (the value from the hodl strategy) with VU (the value from the Uniswap strategy) to work out the difference _`VD`_ . It's more useful to find this as a fraction of _`VH`_ so we divide both sides by _`VH`_.
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.58.00-pm.png)
 
-To reframe this in terms of the price ratio PR\(price ratio\) = \(p1/p0\), we divide the top and bottom of the fraction by e0:
+To reframe this in terms of the price ratio PR(price ratio) = (p1/p0), we divide the top and bottom of the fraction by e0:
 
 ![](../../.gitbook/assets/screenshot-2020-11-08-at-5.58.09-pm.png)
 
 **Note**
 
-The value of `(VD/VH)`will always be ≤ 0, showing that there is always a Impermanent loss  unless `(p1/ p0)=1, i.e. p1=p0)`  
+The value of `(VD/VH)`will always be ≤ 0, showing that there is always a Impermanent loss  unless `(p1/ p0)=1, i.e. p1=p0)`\
 
 
-The above was also used by uniswap for [understanding returns on their ecosystem](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/).  
+The above was also used by uniswap for [understanding returns on their ecosystem](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/).\
 
 
 ### Deducing Unbound breakeven formula or Meeth’s Formula
@@ -182,20 +182,20 @@ The above was also used by uniswap for [understanding returns on their ecosystem
 
 ![](../../.gitbook/assets/screenshot-2020-11-10-at-3.27.33-pm.png)
 
-Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.  
+Note: We have added the fees earned by LPT tokens by using the volume numbers disclosed by Uniswap.\
 
 
-This formula is the foundation of our algorithm. To make things easier, we have created a [calculator](https://testnet.unbound.finance/calculator/) that will process the Maths in the backend.  
+This formula is the foundation of our algorithm. To make things easier, we have created a [calculator](https://testnet.unbound.finance/calculator/) that will process the Maths in the backend.\
 
 
-For an ETH-DAI pair with an LTV of 50%, our net break-even price percentage is at - 74.9684%  
+For an ETH-DAI pair with an LTV of 50%, our net break-even price percentage is at - 74.9684%\
 
 
 ![](../../.gitbook/assets/screenshot-2020-11-10-at-1.24.30-pm.png)
 
-This means that in the above example with the current ETH price at $444.73, ETH would have to correct all the way to around $111 \(-75%\) for the underlying collateral to become 100% collateralized. 
+This means that in the above example with the current ETH price at $444.73, ETH would have to correct all the way to around $111 (-75%) for the underlying collateral to become 100% collateralized.&#x20;
 
-You would also see Duration\(days\) in the [calculator](https://app.unbound.finance/calculator). This signifies the time it takes for the erc20 to decline in price and is required so that the fees that the LPT tokens earn can be calculated. These fees that are earned are then subtracted from Eth Break Even Price to get the Net BreakEven Price. 
+You would also see Duration(days) in the [calculator](https://app.unbound.finance/calculator). This signifies the time it takes for the erc20 to decline in price and is required so that the fees that the LPT tokens earn can be calculated. These fees that are earned are then subtracted from Eth Break Even Price to get the Net BreakEven Price.&#x20;
 
 ### SAFU fund
 
@@ -207,7 +207,7 @@ The Unbound protocol is a dual token ecosystem. It uses UND as a stablecoin and 
 
 **‌UND - The End Of Centralized Stablecoins!**
 
-The UND is a stablecoin that is pegged to USD and collateralized by LPT \(Liquidity Pool Tokens\). The value of UND minted is based on the value of the deposited LPT. The amount of UND minted at the time the LPT was deposited is the amount that the user must pay back in order to get their original LPT. Minted UND will be burned once deposited in the Unlock contract before the original collateral is returned to the user. Arbitrageurs in AMM pools ensure that the Dollar peg is maintained.
+The UND is a stablecoin that is pegged to USD and collateralized by LPT (Liquidity Pool Tokens). The value of UND minted is based on the value of the deposited LPT. The amount of UND minted at the time the LPT was deposited is the amount that the user must pay back in order to get their original LPT. Minted UND will be burned once deposited in the Unlock contract before the original collateral is returned to the user. Arbitrageurs in AMM pools ensure that the Dollar peg is maintained.
 
 ‌**UNB**
 
@@ -217,7 +217,7 @@ A perpetual inflation rate of 4% per year will start after 2 years, ensuring con
 
 ## Tokenomics\*
 
-Total Supply: 10,000,000 UNB  
+Total Supply: 10,000,000 UNB\
 
 
 ![](https://lh6.googleusercontent.com/351uO5n-npIyJGyOl2dY3OtF5rqIpv7p-ZAX0WDgLdu9klhyqg327ReTvYcFE7QTUVyLfMs-rHiR70cyVaMcqjDq5GGakaQQ6LwLJ9SfwWl0kKgFwpcLyImsNYITTCmWdFfMNKBN)
@@ -226,13 +226,13 @@ Total Supply: 10,000,000 UNB
 
 ‌The fees collected from minting is broken down as follows:
 
-a\) SAFU Fund \(40%\)  
-b\) UND-DAI Liquidity Pool \(40%\)  
-c\) Team Fund \(20%\) 
+a) SAFU Fund (40%)\
+b) UND-DAI Liquidity Pool (40%)\
+c) Team Fund (20%)&#x20;
 
-![](https://lh5.googleusercontent.com/6EQaCEUZtQJ1JEtWDqibbiKirLfmIemBBF71-zUiIqLte-aqMgxBP9c2gwmYHdpGQSdbaM2QmjO0VgoozF0BM_Yk7onXFO5jj3WI4I223gKOjnRkzXegss-815mQAq_LNuJN85tr)‌
+![](https://lh5.googleusercontent.com/6EQaCEUZtQJ1JEtWDqibbiKirLfmIemBBF71-zUiIqLte-aqMgxBP9c2gwmYHdpGQSdbaM2QmjO0VgoozF0BM\_Yk7onXFO5jj3WI4I223gKOjnRkzXegss-815mQAq\_LNuJN85tr)‌
 
-SAFU Fund and Liquidity Pools \(Earn\) are covered in the earlier sections.
+SAFU Fund and Liquidity Pools (Earn) are covered in the earlier sections.
 
 **Team Fund**
 
@@ -240,14 +240,14 @@ SAFU Fund and Liquidity Pools \(Earn\) are covered in the earlier sections.
 
 ## Unbound Factory
 
-The Factory Smart Contract is to support major LPTs which include Uniswap, Balancer, Mooniswap, Curve, Kyber, Bancor, and others in the pipeline.  
+The Factory Smart Contract is to support major LPTs which include Uniswap, Balancer, Mooniswap, Curve, Kyber, Bancor, and others in the pipeline.\
 
 
-![](https://lh4.googleusercontent.com/lnUSkR8kiIHZoMRMZ2LJjAcW9zG3Q8RNh8E5M9rph7KBU12QRe4EowLDcWLE1XB8PuckMTzAeRymf5FMOoH_f6hcvagWrDdDPno9kvkhdxXp4_lTaiP9ehQrjPzygUICVnM8JOZF)
+![](https://lh4.googleusercontent.com/lnUSkR8kiIHZoMRMZ2LJjAcW9zG3Q8RNh8E5M9rph7KBU12QRe4EowLDcWLE1XB8PuckMTzAeRymf5FMOoH\_f6hcvagWrDdDPno9kvkhdxXp4\_lTaiP9ehQrjPzygUICVnM8JOZF)
 
 ## Roadmap
 
-![](https://lh6.googleusercontent.com/y9G4mKAAPHO_y6A1sg1DWGeZV1iOhwzrXPltIdG6yA3jtqivC_b88fJGKqTbxzcc3gUxqcp5V1RqdHh50YyxfqFkkQxlgaXI4q57JEDB04zwtNlkeSIeafj9ZAAulJLYuEoxyxXs)
+![](https://lh6.googleusercontent.com/y9G4mKAAPHO\_y6A1sg1DWGeZV1iOhwzrXPltIdG6yA3jtqivC\_b88fJGKqTbxzcc3gUxqcp5V1RqdHh50YyxfqFkkQxlgaXI4q57JEDB04zwtNlkeSIeafj9ZAAulJLYuEoxyxXs)
 
 ## Governance
 
@@ -255,12 +255,12 @@ Unbound will implement a DAO in the coming days.
 
 * The Unbound governance model enables UNB token holders to participate in policies and protocol decisions on the platform. The amount of UNB tokens that a user holds is proportional to their voting power on the platform.
 * The voting power of a user gives them the right to participate in policy making, proposals, and to have a say in any future direction of the platform.
-* The DAO \(Decentralized Autonomous Organization\) has Smart Contracts that form the backend of the platform.
+* The DAO (Decentralized Autonomous Organization) has Smart Contracts that form the backend of the platform.
 * The DAO maintains the transaction records and rules that must be implemented on the blockchain for Unbound's protocols.
 * Tokens allocated for the DAO are more for financing the platform since the Smart Contracts do not vote.
 * The UNB tokens are stored by the DAO, and are released when new policies and improvement proposals from the community have been passed. These will be used to fund projects for the platform.
 
-## Further Develop‌ments 
+## Further Develop‌ments&#x20;
 
 **Version 1**
 
@@ -275,15 +275,15 @@ V1 primarily focuses on:
 
 **Version 2**
 
-Unbound will work towards a more autonomous organization for decentralized liquidity and earnings. This will allow users to explore different markets that provide the best yields on digital assets with the benefits of minimal risk liquidity provisioning. 
+Unbound will work towards a more autonomous organization for decentralized liquidity and earnings. This will allow users to explore different markets that provide the best yields on digital assets with the benefits of minimal risk liquidity provisioning.&#x20;
 
 V2 will primarily focus on:
 
-* Unbound Virtual AMM \(vAMM\): Unbound vAMM will introduce a Vault mechanism which will work autonomously, providing automatic liquidity algorithmically.
+* Unbound Virtual AMM (vAMM): Unbound vAMM will introduce a Vault mechanism which will work autonomously, providing automatic liquidity algorithmically.
 * Unbound Price Oracles: Unbound will develop an on-chain price oracle to query other Smart Contracts to find the latest and most accurate prices with the aim of minimizing the risk of losses to users.
 * Unbound Liquidation Engine for volatile pairs: Unbound will introduce a liquidation engine solely for volatile pairs. When a certain token value falls below a threshold, the liquidation process will be initiated. Unbound’s community governance will decide which volatile assets will be subject to the liquidation protocols.
 
-![](https://lh5.googleusercontent.com/aQLbSyYJ0vc6IxcskFi7cRmZdT0qSSQwpce2Qmy2i9oG764j_7uGj3_1lqHkhQ-8Ek27yJnoXFOEBNyHpCvZmsB8SDgVhqr8G5MVOnuutW7wu0bZqGrm1taJ994RWuNeSxcoLyP2)
+![](https://lh5.googleusercontent.com/aQLbSyYJ0vc6IxcskFi7cRmZdT0qSSQwpce2Qmy2i9oG764j\_7uGj3\_1lqHkhQ-8Ek27yJnoXFOEBNyHpCvZmsB8SDgVhqr8G5MVOnuutW7wu0bZqGrm1taJ994RWuNeSxcoLyP2)
 
 ## Conclusion
 
@@ -299,6 +299,5 @@ V2 will primarily focus on:
 6. How Do Liquidity Pools Work? DeFi Explained - '[https://medium.com/@finematics/how-do-liquidity-pools-work-defi-explained-6d3418ea71fa](https://medium.com/@finematics/how-do-liquidity-pools-work-defi-explained-6d3418ea71fa)'
 7. What Is ERC20 And What Does It Mean For Ethereum - '[https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)'
 8. Curve Finance Is Fixing Stablecoin Slippage on DeFi - '[https://cryptobriefing.com/curve-finance-fixing-stablecoin-slippage-defi/](https://cryptobriefing.com/curve-finance-fixing-stablecoin-slippage-defi/)'
-9. Beginner’s Guide to \(Getting Rekt by\) Impermanent Loss - '[https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)'
+9. Beginner’s Guide to (Getting Rekt by) Impermanent Loss - '[https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)'
 10. Constant Function Market Makers: DeFi’s “Zero to One” Innovation - ‘[https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)’
-

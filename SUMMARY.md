@@ -18,11 +18,12 @@
   * [Further Developments](documentation/whitepaper/further-developments.md)
   * [Conclusion](documentation/whitepaper/conclusion.md)
   * [References](documentation/whitepaper/references.md)
+* [Contract Addresses](documentation/contract-addresses.md)
 * [FAQ's](documentation/faqs.md)
 
 ## Articles
 
----
+***
 
 * [Introducing  Unbound Finance](introducing-unbound-finance.md)
 * [No Liquidations in Unbound Explained](no-liquidations-in-unbound-explained.md)
@@ -34,4 +35,3 @@
   * [Guide To Unbound Finance Testnet](guides/guides-to-unbound-finance-testnet.md)
   * [How to use Metamask ?](guides/how-to-use-metamask.md)
   * [How to Provide Liquidity to Uniswap V2 ?](guides/guide-to-adding-liquidity-to-uniswap-v2.md)
-
