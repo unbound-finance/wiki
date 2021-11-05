@@ -4,13 +4,12 @@ description: Ethereum Chain Contract Adresses.
 
 # Contract Addresses
 
-UND Address
+UND Address:
 
 * UND: 0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499&#x20;
 
 USDC-USDT Vaults:
 
-* KyberDMM: 0x33f97c93c7916B065bb6fb4B34435dEd5F0F8963
 * KyberDMM: 0x33f97c93c7916B065bb6fb4B34435dEd5F0F8963
 
 UND Pools:
