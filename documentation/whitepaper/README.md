@@ -217,10 +217,10 @@ A perpetual inflation rate of 4% per year will start after 2 years, ensuring con
 
 ## Tokenomics\*
 
-Total Supply: 10,000,000 UNB\
+Total Supply: 10,000,000,000 UNB\
 
 
-![](https://lh6.googleusercontent.com/351uO5n-npIyJGyOl2dY3OtF5rqIpv7p-ZAX0WDgLdu9klhyqg327ReTvYcFE7QTUVyLfMs-rHiR70cyVaMcqjDq5GGakaQQ6LwLJ9SfwWl0kKgFwpcLyImsNYITTCmWdFfMNKBN)
+![](<../../.gitbook/assets/Tokenomics pie chart-01.jpg>)
 
 ## Fee Distribution\*
 
