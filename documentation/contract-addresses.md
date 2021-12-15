@@ -8,6 +8,11 @@ UND Address:
 
 * UND: 0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499&#x20;
 
+UNB Address:
+
+* UNB on Ethereum: 0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922
+* UNB on Binance Smart Chain: 0x301af3eff0c904dc5ddd06faa808f653474f7fcc
+
 USDC-USDT Vaults:
 
 * KyberDMM: 0x33f97c93c7916B065bb6fb4B34435dEd5F0F8963
