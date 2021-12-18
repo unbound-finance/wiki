@@ -2,14 +2,14 @@
 
 ### Team Transparency
 
-| Wallets                  | Address                                                                                                                                                          | Allocated Tokens                 |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Unbound Investor Vesting | [0xc49Ca76EbFA713B90a60f5C1d55B35561e5FA528](https://etherscan.io/address/0xc49Ca76EbFA713B90a60f5C1d55B35561e5FA528)                                            | <p>2896000000</p><p>(28.96%)</p> |
-| Unbound Team Vesting     | [0x0e3e039e4c8b68cda90ddbf9fddec7c1a1032202](https://etherscan.io/token/0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922?a=0x0e3e039e4c8b68cda90ddbf9fddec7c1a1032202) | <p>2500000000</p><p>(25%)</p>    |
-| Unbound Treasury Vesting | [0x9bBfa6d19d8BAec1D7a09781c84f1A0A7656B2Fd](https://etherscan.io/address/0x9bBfa6d19d8BAec1D7a09781c84f1A0A7656B2Fd)                                            | 2400000000 UNB(24%)              |
-| Unbound Foundation       | [0x504Aaaa2c4a94cDF7E32333C665CEAa3cEf648fa](https://etherscan.io/address/0x504Aaaa2c4a94cDF7E32333C665CEAa3cEf648fa)                                            | 1500000000 (15%)                 |
-| Unbound Treasury         | [0x7a2421fab852a1343645cd80e791ff752102c375](https://etherscan.io/address/0x7a2421fab852a1343645cd80e791ff752102c375)                                            | 600000000(6%)                    |
-| Public Sale (IDO+ IEO)   | Huobi, Kucoin, Polkastrater, Redkite and Gamefi                                                                                                                  | <p>104000000</p><p>(1.04%)</p>   |
+| Wallets                  | Address                                                                                                               | Allocated Tokens                 |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| Unbound Investor Vesting | [0xc49Ca76EbFA713B90a60f5C1d55B35561e5FA528](https://etherscan.io/address/0xc49Ca76EbFA713B90a60f5C1d55B35561e5FA528) | <p>2896000000</p><p>(28.96%)</p> |
+| Unbound Team Vesting     | [0x0e3e039e4c8b68cda90ddbf9fddec7c1a1032202](https://etherscan.io/address/0x0e3e039e4c8b68cda90ddbf9fddec7c1a1032202) | <p>2500000000</p><p>(25%)</p>    |
+| Unbound Treasury Vesting | [0x9bBfa6d19d8BAec1D7a09781c84f1A0A7656B2Fd](https://etherscan.io/address/0x9bBfa6d19d8BAec1D7a09781c84f1A0A7656B2Fd) | 2400000000 UNB(24%)              |
+| Unbound Foundation       | [0x504Aaaa2c4a94cDF7E32333C665CEAa3cEf648fa](https://etherscan.io/address/0x504Aaaa2c4a94cDF7E32333C665CEAa3cEf648fa) | 1500000000 (15%)                 |
+| Unbound Treasury         | [0x7a2421fab852a1343645cd80e791ff752102c375](https://etherscan.io/address/0x7a2421fab852a1343645cd80e791ff752102c375) | 600000000(6%)                    |
+| Public Sale (IDO+ IEO)   | Huobi, Kucoin, Polkastrater, Redkite and Gamefi                                                                       | <p>104000000</p><p>(1.04%)</p>   |
 
 ****
 
