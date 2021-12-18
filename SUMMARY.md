@@ -19,6 +19,7 @@
   * [Conclusion](documentation/whitepaper/conclusion.md)
   * [References](documentation/whitepaper/references.md)
 * [Contract Addresses](documentation/contract-addresses.md)
+* [Token Transparency](documentation/token-transparency.md)
 * [FAQ's](documentation/faqs.md)
 
 ## Articles
