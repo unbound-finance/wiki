@@ -288,7 +288,7 @@ Chain Supported: ETH & BEP20
 ‌The fees collected from minting is broken down as follows:
 
 a) SAFU Fund (40%)\
-b) UND-DAI Liquidity Pool (40%)\
+b) UND Liquidity Pool (40%)\
 c) Team Fund (20%)&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2021-12-21 at 12.56.22 PM.png>)
