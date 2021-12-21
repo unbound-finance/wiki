@@ -237,9 +237,9 @@ Chain Supported: ETH & BEP20
 |    Allocation	        | Allocation Rate	 | Token Release Schedule                                                          |
 | --------------------- | ---------------- | ------------------------------------------------------------------------------- |
 | Friends & Family      | 6.14%            | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
-| Early Backers         | 5.32%            | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE  |
-| Seed/Private/Strategy | 12.43%           | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
-| Institution/Venture   | 5.07%            | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
+| Early Backers         | 5.32%            | 10% on TGE, rest vested linearly over 27 months with a 6 months cliff from TGE. |
+| Seed/Private/Strategy | 12.43%           | 10% on TGE, rest vested linearly over 18 months with a 6 months cliff from TGE  |
+| Institution/Venture   | 5.07%            | 10% on TGE, rest vested linearly over 27 months with a 6 months cliff from TGE. |
 | Public (IDO)          | 0.37%            | <p>30% on TGE, 30% after month 1, 40% after </p><p>month 2.</p>                 |
 | Public (IEO)          | 0.67%            | 100% on TGE.                                                                    |
 | Treasury              | 30%              | 20% on TGE, rest vested linearly over 24 months with a 3 month cliff from TGE.  |

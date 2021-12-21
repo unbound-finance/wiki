@@ -16,9 +16,9 @@ Chain Supported: ETH & BEP20
 |    Allocation	        | Allocation Rate	 | Token Release Schedule                                                          |
 | --------------------- | ---------------- | ------------------------------------------------------------------------------- |
 | Friends & Family      | 6.14%            | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
-| Early Backers         | 5.32%            | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE  |
-| Seed/Private/Strategy | 12.43%           | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
-| Institution/Venture   | 5.07%            | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
+| Early Backers         | 5.32%            | 10% on TGE, rest vested linearly over 27 months with a 6 months cliff from TGE. |
+| Seed/Private/Strategy | 12.43%           | 10% on TGE, rest vested linearly over 18 months with a 6 months cliff from TGE. |
+| Institution/Venture   | 5.07%            | 10% on TGE, rest vested linearly over 27 months with a 6 months cliff from TGE. |
 | Public (IDO)          | 0.37%            | <p>30% on TGE, 30% after month 1, 40% after </p><p>month 2.</p>                 |
 | Public (IEO)          | 0.67%            | 100% on TGE.                                                                    |
 | Treasury              | 30%              | 20% on TGE, rest vested linearly over 24 months with a 3 month cliff from TGE.  |
@@ -50,17 +50,15 @@ Chain Supported: ETH & BEP20
 
 ### Circulating Supply <a href="#circulating-supply" id="circulating-supply"></a>
 
-| Time span         | Circulating supply                                      |
-| ----------------- | ------------------------------------------------------- |
-| 0 to 3 months\*   | 9.74% (6% Treasury & 3.74% from Private & Public Sale). |
-| 3 to 6 months\*\* | 12.73%(9% Treasury & 3.74% from Private & Public Sale). |
-| 6 months +\*\*\*  | Linear vesting starts as described in the above table.  |
+| Time span       | Circulating supply                                      |
+| --------------- | ------------------------------------------------------- |
+| 0 to 3 months   | 9.74% (6% Treasury & 3.74% from Private & Public Sale). |
+| 3 to 6 months\* | 12.73%(9% Treasury & 3.74% from Private & Public Sale). |
+| 6 months +\*\*  | Linear vesting starts as described in the above table.  |
 
-> \*Treasury tokens would be used for marketing, adoption, expenses and other treasury building efforts.
+> \*Foundation Tokens have no fixed vesting schedule and would be unlocked for liquidity mining rewards and strategic fund raise . We would inform community before any type of unlock occurs.
 
-> \*\*Foundation Tokens have no fixed vesting schedule and would be unlocked for liquidity mining rewards and strategic fund raise . We would inform community before any type of unlock occurs.
-
-> \*\*\* There will be an inflation of 4% after 2 years from TGE.
+> \*\* There will be an inflation of 4% after 2 years from TGE.
 
 ## Fee Distribution\*
 
