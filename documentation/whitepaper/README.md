@@ -291,7 +291,7 @@ a) SAFU Fund (40%)\
 b) UND-DAI Liquidity Pool (40%)\
 c) Team Fund (20%)&#x20;
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/Screenshot 2021-12-21 at 12.56.22 PM.png>)
 
 SAFU Fund and Liquidity Pools (Earn) are covered in the earlier sections.
 
