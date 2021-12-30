@@ -13,7 +13,7 @@ Chain Supported: ETH & BEP20
 
 ### Vesting Schedule
 
-| Investment round             | Allocation Percentage	 | Token Release Schedule                                                          |
+| Investment Round             | Allocation Percentage	 | Token Release Schedule                                                          |
 | ---------------------------- | ---------------------- | ------------------------------------------------------------------------------- |
 | Friends & Family Round       | 6.14%                  | 10% on TGE, rest vested linearly over 34 months with a 6 months cliff from TGE. |
 | Early Backers Round          | 5.32%                  | 10% on TGE, rest vested linearly over 27 months with a 6 months cliff from TGE. |
