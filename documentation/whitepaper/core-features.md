@@ -25,4 +25,4 @@ The complete collateral can be released by paying back the outstanding debt.
 
 The Earn feature of the Unbound protocol incentivizes users for providing liquidity to the UND pools. Users can deposit UND in the Unbound liquidity pools. In return, they earn UND rewards on a continual basis proportional to the size of their deposit which gets accrued to the user balance.&#x20;
 
-The deposit made to the liquidity pools can be withdrawn at any time including the rewards. Initially, Earn rewards are set to 60% of the minting fees. The current yield rate is variable and is susceptible to changes at later stages through community voting.
+The deposit made to the liquidity pools can be withdrawn at any time including the rewards. A portion of the minting fee will be kept for SAFU and the remainder will be given as rewards to users providing liquidity to the UND pools. The percentage of distribution will vary from protocol to protocol on different chains and is susceptible to changes at later stages through community voting.
