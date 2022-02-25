@@ -99,12 +99,7 @@ Unlocked LPT = Returning Minted UND
 
 ![](../../.gitbook/assets/group-136.png)
 
-### Earn    &#x20;
-
-Users can become Liquidity Providers for UND Pools. In return, UND is issued to users for providing that liquidity. ‌
-
-* The Earn reward is over and above what a user will get in Uniswap
-* The Earn reward is variable and is set to 40% of the Mint transaction fees in the initial phases.&#x20;
+###
 
 ## Liquidation Free Liquidity
 
@@ -197,9 +192,7 @@ This means that in the above example with the current ETH price at $444.73, ETH 
 
 You would also see Duration(days) in the [calculator](https://app.unbound.finance/calculator). This signifies the time it takes for the erc20 to decline in price and is required so that the fees that the LPT tokens earn can be calculated. These fees that are earned are then subtracted from Eth Break Even Price to get the Net BreakEven Price.&#x20;
 
-### SAFU fund
 
-The SAFU fund is an insurance fund that can be useful for blackswan events. The fund will continuously grow as a percentage of all the minting fees are allocated to it. This creates a continuous buying pressure on UND and helps maintain the dollar peg.  The % is set to 40% initially and set to change as the ecosystem develops.
 
 ## Tokens
 
