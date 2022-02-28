@@ -276,19 +276,17 @@ Chain Supported: ETH & BEP20
 
 ## Fee Distribution\*
 
-‌The fees collected from minting is broken down as follows:
+‌The fees collected from minting will get distributed to SAFU fund, Team fund, and UND liquidity pool. Its allocation is not fixed and as the system becomes more autonomous, the portion allocated can go up or down as required.
 
-a) SAFU Fund (40%)\
-b) UND Liquidity Pool (40%)\
-c) Team Fund (20%)&#x20;
-
-![](<../../.gitbook/assets/Screenshot 2021-12-21 at 12.56.22 PM.png>)
+a) SAFU Fund \
+b) UND Liquidity Pool \
+c) Team Fund
 
 SAFU Fund and Liquidity Pools (Earn) are covered in the earlier sections.
 
 **Team Fund**
 
-‌20% of the fees are distributed to team members to enable further development.This allocation is not fixed and as the system becomes more autonomous, the portion allocated can go up or down as required.
+‌Some portion of fees is distributed to team members to enable further development. This allocation is not fixed and is subject to change as required.
 
 ## Unbound Factory
 
