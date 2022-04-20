@@ -62,16 +62,14 @@ Chain Supported: ETH & BEP20
 
 ## Fee Distribution\*
 
-‌The fees collected from minting is broken down as follows:
+50% of the minting fee will be allocated to the SAFU fund. The remaining 50% fee will be swapped for UNB and distributed as rewards. The wallet addresses are as follows.
 
-a) SAFU Fund (40%)\
-b) UND Liquidity Pool (40%)\
-c) Team Fund (20%)&#x20;
+Unbound Safu: 0x44C7122eEF171508A22a4E659A804592D95D422D
 
-![](<../../.gitbook/assets/Screenshot 2021-12-21 at 12.56.22 PM.png>)
+Unbound UNB Buyback: 0xe7C3B9A0a7eB760172C8250035c0bDC7216FE7c5
 
-SAFU Fund and Liquidity Pools (Earn) are covered in the earlier sections.
+
 
 **Team Fund**
 
-‌20% of the fees are distributed to team members to enable further development. This allocation is not fixed and as the system becomes more autonomous, the portion allocated can go up or down as required.
+This allocation is not fixed and currently it is zero as the system becomes more autonomous, the portion allocated can go up or down as required.
