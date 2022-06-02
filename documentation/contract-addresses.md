@@ -12,6 +12,7 @@ UNB Address:
 
 * UNB on Ethereum: 0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922
 * UNB on Binance Smart Chain: 0x301af3eff0c904dc5ddd06faa808f653474f7fcc
+* UNB on Polygon: 0xD81F558b71A5323e433729009D55159955F8A7f9
 
 USDC-USDT Vaults:
 
