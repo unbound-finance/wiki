@@ -38,7 +38,7 @@ In October 2020, the total value locked in DeFi in USD is $10.71 Bn. Uniswap alo
 
 ![](https://lh4.googleusercontent.com/kLxt5RTIWFp4Ai2nW6T17iZXHJByYrUMPOLzXMZ8jMogFjHbEQDwzJzo69ujwP4Uuq9l3yvIfQajxRJQlzjXSL5eECbty1kWT0-WhQ8X3SyKSO6z6woqQ81rv06PdkU5Gfwvtylz)
 
-[Defi Pulse](https://defipulse.com)\
+[Defi Pulse](https://defipulse.com/)\
 
 
 ### Automated Market Makers (AMM)

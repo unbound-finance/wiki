@@ -13,7 +13,6 @@
   * [Tokens](documentation/whitepaper/tokens.md)
   * [Tokenomics](documentation/whitepaper/tokenomics.md)
   * [Unbound Factory](documentation/whitepaper/unbound-factory.md)
-  * [Roadmap](documentation/whitepaper/roadmap.md)
   * [Governance](documentation/whitepaper/governance.md)
   * [Further Developments](documentation/whitepaper/further-developments.md)
   * [Conclusion](documentation/whitepaper/conclusion.md)
