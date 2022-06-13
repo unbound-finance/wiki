@@ -4,7 +4,7 @@ Unbound Finance is a decentralized, lending protocol built on Automated Market M
 
 This tutorial is a step by step guide for using the Unbound features - Mint, Unlock, and Earn. &#x20;
 
-In order to leverage the Unbound services, you first need to go to the Unbound Dashboard. The Unbound Dashboard is easy to reach. Simply go to “[unbound.finance](https://unbound.finance/)” and click on “Dashboard”.
+In order to leverage the Unbound services, you first need to go to the Unbound Dashboard. The Unbound Dashboard is easy to reach. Simply go to “[unbound.finance](https://unbound.finance)” and click on “Dashboard”.
 
 ![](https://lh3.googleusercontent.com/agR2Nd0s8JKNIGZQz8khYzLKkApeUYmfcZiLxcxeUdEg8j8iDf3Bx1LaGlAXjGsUoQB\_ImaaTwdODb-RXTNV0J-6IZNMPzHO4s-TaL6Wm3UujUaIaAOOwdsxJb4mP3cbhfeG-voI)
 

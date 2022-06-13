@@ -51,14 +51,14 @@ Notice that the wallet is by Default connected to the Ethereum network. In order
 
 **Symbol:** matic
 
-**Block Explorer URL:** [https://mumbai-explorer.matic.today/](https://mumbai.polygonscan.com/)\
+**Block Explorer URL:** [https://mumbai-explorer.matic.today/](https://mumbai.polygonscan.com)\
 
 
 1. Once you save the network, you will notice the addition of Polygon testnet to the network list.&#x20;
 
 You can now perform your transactions on the Polygon network.
 
-Step 1: Access the following website: [https://faucet.matic.network/](https://faucet.matic.network/) and make sure the following parameter are set:
+Step 1: Access the following website: [https://faucet.matic.network/](https://faucet.matic.network) and make sure the following parameter are set:
 
 ![](https://lh6.googleusercontent.com/2VFBDl9uCqJyuMi-HgmNWh28VXbK8APosoxLsQmbr6A9Y4z8Fs25rsiF7cu3AZNvokJvbqewRwL-8326ucxcvYh9oe5cv-cX6Ncct7KFiQEMoAYkOdE-0NUkRKaPd77cPTJlYNc0)
 
@@ -72,7 +72,7 @@ Step 3: Confirm the transaction.
 
 ![](https://lh6.googleusercontent.com/srKUbHEQ-\_-mKtkjA3QjCrwbTX088TrJT3F3bHZl37wvLxlrX2VxDF5QIZvIIXULfFWLu\_ClYTtdbJtUI6xKGton-g6rxMo8GGiuK3hQ-gKDtDDQ0NsK\_WHFjpWe-n9hzAZvaTJJ)
 
-Step 4: Once the transaction is confirmed, you will be able to check the transaction in the Matic’s version of Etherscan when clicking on “here”: [https://explorer-mumbai.maticvigil.com/](https://mumbai.polygonscan.com/)
+Step 4: Once the transaction is confirmed, you will be able to check the transaction in the Matic’s version of Etherscan when clicking on “here”: [https://explorer-mumbai.maticvigil.com/](https://mumbai.polygonscan.com)
 
 Step 5: As you can see, here is a quick summary of the amount transferred to you in the Polygon block explorer (Polygonscan).
 
@@ -85,11 +85,11 @@ Step 5: As you can see, here is a quick summary of the amount transferred to you
 Now that you have Mumbai Matic, you need to get a faucet of tokens in order to interact with the Unbound test platform.\
 
 
-Step 1: Go to [https://polygon-testnet.unbound.finance/](https://polygon-testnet.unbound.finance/)
+Step 1: Go to [https://polygon-testnet.unbound.finance/](https://polygon-testnet.unbound.finance)
 
 Connect your wallet and make sure you are using Mumbai Testnet.
 
-Before starting, make sure you have Mumbai Matic to pay for the gas transaction on receiving the faucet. If you need Mumbai Matic, find it [here](https://faucet.matic.network/).
+Before starting, make sure you have Mumbai Matic to pay for the gas transaction on receiving the faucet. If you need Mumbai Matic, find it [here](https://faucet.matic.network).
 
 ![](https://lh4.googleusercontent.com/ffIlQISDuxzsW3GW2hfLfdk-2bhhYZ3AJ2lBE4eTD5-6RCImfQ3TFure7Nz-qi9udlMWlrUy4Vr0VOdE-qoyfDUI2o3BOKMSlcre\_9H84aNaOInhNSyYeMY568U252jmv0ftPfB\_)
 

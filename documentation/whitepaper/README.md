@@ -295,10 +295,6 @@ The Factory Smart Contract is to support major LPTs which include Uniswap, Balan
 
 ![](https://lh4.googleusercontent.com/lnUSkR8kiIHZoMRMZ2LJjAcW9zG3Q8RNh8E5M9rph7KBU12QRe4EowLDcWLE1XB8PuckMTzAeRymf5FMOoH\_f6hcvagWrDdDPno9kvkhdxXp4\_lTaiP9ehQrjPzygUICVnM8JOZF)
 
-## Roadmap
-
-![](https://lh6.googleusercontent.com/y9G4mKAAPHO\_y6A1sg1DWGeZV1iOhwzrXPltIdG6yA3jtqivC\_b88fJGKqTbxzcc3gUxqcp5V1RqdHh50YyxfqFkkQxlgaXI4q57JEDB04zwtNlkeSIeafj9ZAAulJLYuEoxyxXs)
-
 ## Governance
 
 Unbound will implement a DAO in the coming days.
