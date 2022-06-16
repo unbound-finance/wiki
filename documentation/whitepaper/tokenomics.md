@@ -8,6 +8,11 @@ Chain Supported: ETH & BEP20
 
 * UNB ERC20 Token Address: [0x8db253a1943dddf1af9bcf8706ac9a0ce939d922](https://etherscan.io/address/0x8db253a1943dddf1af9bcf8706ac9a0ce939d922)
 * UNB BEP20 Token Address: [0x301af3eff0c904dc5ddd06faa808f653474f7fcc](https://bscscan.com/address/0x301af3eff0c904dc5ddd06faa808f653474f7fcc)
+* UNB on Polygon: [0xD81F558b71A5323e433729009D55159955F8A7f9](https://polygonscan.com/address/0xD81F558b71A5323e433729009D55159955F8A7f9)
+
+
+
+
 
 ![](<../../.gitbook/assets/Tokenomics pie chart-01.jpg>)
 
