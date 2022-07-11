@@ -27,7 +27,6 @@
 * [Introducing  Unbound Finance](introducing-unbound-finance.md)
 * [No Liquidations in Unbound Explained](no-liquidations-in-unbound-explained.md)
 * [Simulating Impermanent Loss](simulating-impermanent-loss.md)
-* [Block Limit Lock Mechanism  - A Security Layer](block-limit-lock-mechanism-a-security-layer.md)
 * [Price Oracle Solution for Unbound](price-oracle-solution-for-unbound.md)
 * [Guides](guides/README.md)
   * [Guide To Accessing Polygon Testnet And How to get Unbound Faucet Tokens ?](guides/guide-to-accessing-polygon-testnet-and-how-to-use-unbound-faucet-tokens.md)
